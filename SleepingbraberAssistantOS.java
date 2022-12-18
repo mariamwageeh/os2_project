@@ -25,7 +25,7 @@ package sleepingbraberassistantos;
 //        System.out.println("Number of chairs: ");
 //        int numberofChairs = input.nextInt();
 //        
-//        // Create semaphores.
+//        // Create semaphores for chairs and teachers available.
 //        SignalSemaphore wakeup = new SignalSemaphore();
 //        Semaphore chairs = new Semaphore(numberofChairs);
 //        Semaphore TAsAvailable = new Semaphore(numberofTeachersAvailable);
