@@ -1,4 +1,5 @@
 package sleepingbraberassistantos;
+// A multi treaded,multi core solution to sleeping barber problem 
 //**
 ///*
 // * To change this license header, choose License Headers in Project Properties.
@@ -51,3 +52,4 @@ package sleepingbraberassistantos;
 //    }
 //    
 //}
+
