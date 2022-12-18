@@ -282,7 +282,7 @@ public class sleeping_gui extends javax.swing.JFrame {
                     }
                     ta_workingT.setText(String.valueOf(numberofbA - available.availablePermits()));
                     ta_sleepT.setText(String.valueOf(available.availablePermits()));
-                    client_watingT.setText(String.valueOf(numberofchairs - chairs.availablePermits()));
+                    //client_watingT.setText(String.valueOf(numberofchairs - chairs.availablePermits()));
                     //client_laterT.setText(String.valueOf(numberofclient - ((numberofbA - available.availablePermits()) + (numberofchairs - chairs.availablePermits()))));
                 }
             }
